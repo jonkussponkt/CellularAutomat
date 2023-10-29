@@ -1,0 +1,73 @@
+# board[0, 0] = 1
+    # board[1, 1] = 1
+    # board[2, 1] = 1
+40x40
+    
+# board[2, 2] = 1
+    # board[4, 4] = 1
+    # board[5, 4] = 1
+    # board[5, 5] = 1
+    # board[4, 5] = 1
+    # board[6, 5] = 1
+    # board[5, 6] = 1
+    # board[7, 7] = 1
+    # board[8, 9] = 1
+    # board[9, 8] = 1
+    # board[9, 9] = 1
+
+    # board[4, 4] = 1
+    # board[5, 4] = 1
+    # board[5, 5] = 1
+    # board[6, 6] = 1
+    # board[7, 6] = 1
+    # board[8, 6] = 1
+
+    # board[1, 1] = 1
+    # board[2, 2] = 1
+    # board[2, 3] = 1
+    # board[1, 3] = 1
+    # board[0, 3] = 1
+
+Żabka
+
+    board[2, 2] = 1
+    board[3, 1] = 1
+    board[4, 1] = 1
+    board[3, 4] = 1
+    board[4, 4] = 1
+    board[5, 3] = 1
+
+Fontanna
+
+
+board[7, 4] = 1
+    board[8, 4] = 1
+    board[10, 4] = 1
+    board[11, 4] = 1
+    board[7, 5] = 1
+    board[11, 5] = 1
+    board[8, 6] = 1
+    board[10, 6] = 1
+    board[7, 7] = 1
+    board[11, 7] = 1
+    board[6, 8] = 1
+    board[12, 8] = 1
+    board[5, 7] = 1
+    board[5, 6] = 1
+    board[13, 7] = 1
+    board[13, 6] = 1
+
+Heavy-weight spaceship (HWSS)
+    board[4, 2] = 1
+    board[5, 2] = 1
+    board[2, 3] = 1
+    board[7, 3] = 1
+    board[8, 4] = 1
+    board[8, 5] = 1
+    board[2, 5] = 1
+    board[3, 6] = 1
+    board[4, 6] = 1
+    board[5, 6] = 1
+    board[6, 6] = 1
+    board[7, 6] = 1
+    board[8, 6] = 1
